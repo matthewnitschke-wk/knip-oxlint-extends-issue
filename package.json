@@ -1,0 +1,15 @@
+{
+  "name": "knip-oxlint-extends-issue",
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "12.4.2"
+    }
+  },
+  "type": "module",
+  "devDependencies": {
+    "eslint-plugin-formatjs": "^8.0.2",
+    "knip": "6.35.0",
+    "oxlint": "^1.83.0"
+  }
+}
